@@ -5,6 +5,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import game.*;
+import observer.GameObserver;
+import observer.MoveEvent;
 import participants.*;
 public class GameTest {
 
@@ -55,5 +57,41 @@ public class GameTest {
         assertThrows(IllegalArgumentException.class, () -> {
             game.doRound(wrongBot, niceBot, history);
         });
+    }
+    
+    
+    //testing the observer pattern and the game loop
+    @Test
+    public void testFullGameLoopAndObservers() {
+        // Start a game with 2 rounds
+        Game game = new IteratedPrisonersDilemma(2);
+        Participant p1 = new AlwaysCooperate();
+        Participant p2 = new AlwaysDefect();
+        
+        GameObserver testObserver = new GameObserver() {
+            @Override
+            public void onMoveMade(MoveEvent e) {}
+            
+            @Override
+            public void onGameOver(GameResult e) {}
+            
+            @Override
+            public void onTournamentOver(tournament.TournamentResult e) {} 
+        };
+
+        // Test addObserver() and getObservers()
+        game.addObserver(testObserver);
+        assertEquals(1, game.getObservers().size());
+
+        // Run the game loop Here
+        GameResult result = game.play(p1, p2);
+
+        // Check the game run successfully, Cooperate vs Defect should = 0 to 10 after 2 rounds)
+        assertEquals(0, result.getTotalScoreP1());
+        assertEquals(10, result.getTotalScoreP2());
+
+        // Test removeObserver()
+        game.removeObserver(testObserver);
+        assertEquals(0, game.getObservers().size());
     }
 }
