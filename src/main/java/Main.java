@@ -39,15 +39,7 @@ public class Main {
 
         // 5. Run the Tournament
         System.out.println("Running a Round Robin tournament with " + bots.size() + " bots...");
-        
-        try {
-            tournament.run(bots, game);
-            System.out.println("Simulation finished without crashing!");
-        } catch (Exception e) {
-            System.out.println("CRASH DETECTED! Here is the error:");
-            e.printStackTrace();
-        }
-
+        tournament.run(bots, game);
         System.out.println("--- TOURNAMENT COMPLETE ---");
     }
 }

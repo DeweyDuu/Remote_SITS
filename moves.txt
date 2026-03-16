@@ -2468,3 +2468,1207 @@ Round 199 | Always Defect played DEFECT | Always Cooperate played COOPERATE
 Round 200 | Always Defect played DEFECT | Always Cooperate played COOPERATE
 --- TOURNAMENT FINISH ---
 
+Round 1 | Tit For Tat played COOPERATE | Always Defect played DEFECT
+Round 2 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 3 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 4 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 5 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 6 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 7 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 8 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 9 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 10 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 11 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 12 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 13 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 14 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 15 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 16 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 17 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 18 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 19 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 20 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 21 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 22 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 23 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 24 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 25 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 26 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 27 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 28 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 29 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 30 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 31 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 32 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 33 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 34 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 35 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 36 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 37 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 38 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 39 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 40 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 41 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 42 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 43 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 44 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 45 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 46 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 47 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 48 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 49 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 50 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 51 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 52 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 53 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 54 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 55 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 56 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 57 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 58 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 59 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 60 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 61 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 62 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 63 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 64 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 65 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 66 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 67 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 68 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 69 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 70 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 71 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 72 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 73 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 74 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 75 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 76 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 77 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 78 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 79 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 80 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 81 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 82 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 83 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 84 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 85 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 86 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 87 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 88 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 89 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 90 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 91 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 92 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 93 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 94 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 95 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 96 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 97 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 98 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 99 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 100 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 101 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 102 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 103 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 104 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 105 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 106 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 107 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 108 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 109 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 110 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 111 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 112 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 113 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 114 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 115 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 116 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 117 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 118 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 119 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 120 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 121 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 122 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 123 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 124 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 125 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 126 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 127 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 128 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 129 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 130 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 131 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 132 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 133 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 134 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 135 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 136 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 137 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 138 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 139 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 140 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 141 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 142 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 143 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 144 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 145 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 146 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 147 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 148 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 149 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 150 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 151 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 152 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 153 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 154 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 155 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 156 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 157 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 158 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 159 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 160 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 161 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 162 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 163 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 164 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 165 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 166 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 167 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 168 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 169 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 170 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 171 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 172 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 173 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 174 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 175 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 176 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 177 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 178 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 179 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 180 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 181 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 182 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 183 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 184 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 185 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 186 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 187 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 188 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 189 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 190 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 191 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 192 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 193 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 194 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 195 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 196 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 197 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 198 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 199 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 200 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 1 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 2 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 3 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 4 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 5 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 6 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 7 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 8 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 9 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 10 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 11 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 12 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 13 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 14 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 15 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 16 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 17 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 18 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 19 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 20 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 21 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 22 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 23 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 24 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 25 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 26 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 27 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 28 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 29 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 30 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 31 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 32 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 33 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 34 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 35 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 36 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 37 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 38 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 39 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 40 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 41 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 42 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 43 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 44 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 45 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 46 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 47 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 48 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 49 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 50 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 51 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 52 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 53 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 54 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 55 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 56 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 57 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 58 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 59 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 60 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 61 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 62 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 63 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 64 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 65 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 66 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 67 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 68 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 69 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 70 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 71 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 72 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 73 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 74 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 75 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 76 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 77 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 78 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 79 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 80 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 81 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 82 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 83 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 84 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 85 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 86 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 87 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 88 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 89 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 90 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 91 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 92 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 93 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 94 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 95 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 96 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 97 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 98 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 99 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 100 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 101 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 102 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 103 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 104 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 105 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 106 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 107 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 108 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 109 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 110 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 111 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 112 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 113 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 114 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 115 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 116 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 117 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 118 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 119 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 120 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 121 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 122 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 123 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 124 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 125 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 126 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 127 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 128 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 129 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 130 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 131 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 132 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 133 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 134 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 135 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 136 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 137 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 138 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 139 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 140 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 141 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 142 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 143 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 144 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 145 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 146 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 147 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 148 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 149 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 150 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 151 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 152 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 153 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 154 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 155 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 156 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 157 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 158 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 159 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 160 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 161 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 162 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 163 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 164 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 165 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 166 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 167 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 168 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 169 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 170 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 171 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 172 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 173 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 174 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 175 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 176 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 177 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 178 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 179 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 180 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 181 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 182 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 183 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 184 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 185 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 186 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 187 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 188 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 189 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 190 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 191 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 192 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 193 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 194 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 195 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 196 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 197 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 198 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 199 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 200 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 1 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 2 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 3 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 4 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 5 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 6 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 7 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 8 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 9 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 10 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 11 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 12 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 13 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 14 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 15 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 16 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 17 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 18 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 19 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 20 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 21 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 22 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 23 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 24 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 25 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 26 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 27 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 28 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 29 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 30 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 31 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 32 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 33 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 34 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 35 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 36 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 37 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 38 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 39 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 40 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 41 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 42 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 43 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 44 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 45 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 46 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 47 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 48 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 49 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 50 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 51 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 52 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 53 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 54 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 55 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 56 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 57 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 58 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 59 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 60 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 61 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 62 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 63 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 64 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 65 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 66 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 67 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 68 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 69 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 70 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 71 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 72 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 73 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 74 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 75 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 76 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 77 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 78 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 79 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 80 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 81 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 82 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 83 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 84 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 85 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 86 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 87 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 88 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 89 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 90 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 91 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 92 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 93 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 94 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 95 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 96 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 97 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 98 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 99 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 100 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 101 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 102 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 103 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 104 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 105 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 106 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 107 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 108 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 109 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 110 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 111 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 112 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 113 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 114 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 115 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 116 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 117 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 118 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 119 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 120 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 121 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 122 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 123 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 124 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 125 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 126 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 127 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 128 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 129 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 130 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 131 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 132 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 133 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 134 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 135 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 136 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 137 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 138 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 139 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 140 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 141 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 142 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 143 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 144 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 145 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 146 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 147 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 148 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 149 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 150 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 151 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 152 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 153 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 154 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 155 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 156 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 157 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 158 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 159 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 160 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 161 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 162 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 163 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 164 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 165 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 166 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 167 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 168 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 169 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 170 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 171 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 172 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 173 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 174 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 175 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 176 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 177 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 178 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 179 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 180 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 181 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 182 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 183 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 184 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 185 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 186 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 187 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 188 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 189 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 190 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 191 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 192 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 193 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 194 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 195 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 196 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 197 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 198 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 199 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 200 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+--- TOURNAMENT FINISH ---
+
+Round 1 | Tit For Tat played COOPERATE | Always Defect played DEFECT
+Round 2 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 3 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 4 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 5 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 6 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 7 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 8 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 9 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 10 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 11 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 12 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 13 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 14 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 15 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 16 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 17 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 18 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 19 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 20 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 21 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 22 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 23 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 24 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 25 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 26 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 27 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 28 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 29 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 30 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 31 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 32 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 33 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 34 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 35 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 36 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 37 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 38 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 39 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 40 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 41 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 42 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 43 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 44 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 45 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 46 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 47 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 48 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 49 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 50 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 51 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 52 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 53 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 54 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 55 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 56 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 57 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 58 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 59 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 60 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 61 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 62 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 63 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 64 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 65 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 66 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 67 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 68 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 69 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 70 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 71 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 72 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 73 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 74 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 75 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 76 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 77 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 78 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 79 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 80 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 81 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 82 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 83 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 84 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 85 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 86 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 87 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 88 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 89 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 90 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 91 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 92 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 93 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 94 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 95 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 96 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 97 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 98 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 99 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 100 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 101 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 102 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 103 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 104 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 105 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 106 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 107 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 108 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 109 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 110 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 111 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 112 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 113 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 114 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 115 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 116 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 117 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 118 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 119 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 120 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 121 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 122 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 123 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 124 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 125 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 126 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 127 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 128 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 129 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 130 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 131 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 132 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 133 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 134 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 135 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 136 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 137 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 138 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 139 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 140 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 141 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 142 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 143 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 144 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 145 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 146 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 147 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 148 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 149 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 150 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 151 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 152 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 153 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 154 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 155 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 156 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 157 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 158 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 159 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 160 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 161 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 162 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 163 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 164 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 165 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 166 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 167 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 168 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 169 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 170 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 171 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 172 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 173 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 174 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 175 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 176 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 177 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 178 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 179 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 180 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 181 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 182 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 183 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 184 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 185 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 186 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 187 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 188 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 189 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 190 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 191 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 192 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 193 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 194 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 195 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 196 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 197 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 198 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 199 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 200 | Tit For Tat played DEFECT | Always Defect played DEFECT
+Round 1 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 2 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 3 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 4 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 5 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 6 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 7 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 8 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 9 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 10 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 11 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 12 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 13 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 14 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 15 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 16 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 17 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 18 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 19 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 20 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 21 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 22 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 23 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 24 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 25 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 26 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 27 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 28 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 29 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 30 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 31 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 32 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 33 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 34 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 35 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 36 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 37 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 38 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 39 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 40 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 41 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 42 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 43 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 44 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 45 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 46 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 47 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 48 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 49 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 50 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 51 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 52 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 53 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 54 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 55 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 56 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 57 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 58 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 59 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 60 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 61 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 62 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 63 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 64 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 65 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 66 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 67 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 68 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 69 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 70 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 71 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 72 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 73 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 74 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 75 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 76 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 77 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 78 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 79 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 80 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 81 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 82 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 83 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 84 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 85 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 86 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 87 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 88 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 89 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 90 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 91 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 92 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 93 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 94 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 95 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 96 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 97 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 98 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 99 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 100 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 101 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 102 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 103 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 104 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 105 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 106 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 107 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 108 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 109 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 110 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 111 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 112 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 113 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 114 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 115 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 116 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 117 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 118 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 119 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 120 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 121 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 122 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 123 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 124 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 125 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 126 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 127 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 128 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 129 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 130 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 131 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 132 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 133 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 134 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 135 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 136 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 137 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 138 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 139 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 140 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 141 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 142 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 143 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 144 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 145 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 146 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 147 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 148 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 149 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 150 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 151 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 152 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 153 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 154 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 155 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 156 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 157 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 158 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 159 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 160 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 161 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 162 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 163 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 164 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 165 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 166 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 167 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 168 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 169 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 170 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 171 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 172 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 173 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 174 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 175 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 176 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 177 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 178 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 179 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 180 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 181 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 182 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 183 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 184 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 185 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 186 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 187 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 188 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 189 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 190 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 191 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 192 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 193 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 194 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 195 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 196 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 197 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 198 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 199 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 200 | Tit For Tat played COOPERATE | Always Cooperate played COOPERATE
+Round 1 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 2 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 3 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 4 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 5 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 6 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 7 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 8 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 9 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 10 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 11 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 12 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 13 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 14 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 15 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 16 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 17 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 18 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 19 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 20 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 21 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 22 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 23 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 24 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 25 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 26 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 27 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 28 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 29 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 30 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 31 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 32 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 33 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 34 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 35 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 36 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 37 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 38 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 39 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 40 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 41 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 42 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 43 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 44 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 45 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 46 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 47 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 48 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 49 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 50 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 51 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 52 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 53 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 54 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 55 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 56 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 57 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 58 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 59 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 60 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 61 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 62 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 63 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 64 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 65 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 66 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 67 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 68 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 69 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 70 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 71 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 72 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 73 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 74 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 75 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 76 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 77 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 78 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 79 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 80 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 81 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 82 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 83 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 84 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 85 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 86 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 87 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 88 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 89 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 90 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 91 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 92 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 93 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 94 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 95 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 96 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 97 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 98 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 99 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 100 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 101 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 102 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 103 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 104 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 105 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 106 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 107 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 108 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 109 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 110 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 111 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 112 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 113 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 114 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 115 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 116 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 117 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 118 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 119 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 120 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 121 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 122 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 123 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 124 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 125 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 126 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 127 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 128 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 129 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 130 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 131 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 132 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 133 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 134 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 135 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 136 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 137 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 138 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 139 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 140 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 141 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 142 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 143 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 144 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 145 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 146 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 147 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 148 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 149 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 150 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 151 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 152 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 153 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 154 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 155 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 156 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 157 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 158 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 159 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 160 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 161 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 162 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 163 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 164 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 165 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 166 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 167 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 168 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 169 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 170 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 171 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 172 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 173 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 174 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 175 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 176 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 177 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 178 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 179 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 180 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 181 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 182 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 183 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 184 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 185 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 186 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 187 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 188 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 189 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 190 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 191 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 192 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 193 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 194 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 195 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 196 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 197 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 198 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 199 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+Round 200 | Always Defect played DEFECT | Always Cooperate played COOPERATE
+--- TOURNAMENT FINISH ---
+

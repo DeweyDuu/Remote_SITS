@@ -93,6 +93,8 @@ public class ObserverTest {
     public void testWrite() {
         ScoreLogger badScoreLogger = new ScoreLogger("score_write.txt");
         MoveLogger badMoveLogger = new MoveLogger("score_move.txt");
+        ScoreLogger closescore = new ScoreLogger("score_close.txt");
+        MoveLogger closemove = new MoveLogger("move_close.txt");
         Participant p1 = new AlwaysCooperate();
         Participant p2 = new AlwaysDefect();
         
@@ -110,6 +112,10 @@ public class ObserverTest {
         badScoreLogger.onGameOver(gr);
         badMoveLogger.onTournamentOver(tr);
         badMoveLogger.onMoveMade(event);
+        closescore.onTournamentOver(tr);
+        closescore.onTournamentOver(tr);
+        closemove.onTournamentOver(tr);
+        closemove.onTournamentOver(tr);
         
 
     }
