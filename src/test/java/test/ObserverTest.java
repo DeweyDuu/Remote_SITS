@@ -107,7 +107,7 @@ public class ObserverTest {
         GameHistory gh = new GameHistory(p1.getName(), p2.getName());
         MoveEvent event = new MoveEvent(rr, gh);
         badScoreLogger.onTournamentOver(tr);
-        badScoreLogger.onMoveMade(event);
+        badScoreLogger.onGameOver(gr);
         badMoveLogger.onTournamentOver(tr);
         badMoveLogger.onMoveMade(event);
         
