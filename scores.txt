@@ -68,3 +68,123 @@ Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: 
 3. Always Cooperate - 600 total points
 ==================================
 
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+
+Match Over -> Tit For Tat: 199 points | Always Defect: 204 points | Winner: Always Defect
+Match Over -> Tit For Tat: 600 points | Always Cooperate: 600 points | Winner: Tie
+Match Over -> Always Defect: 1000 points | Always Cooperate: 0 points | Winner: Always Defect
+
+=== FINAL TOURNAMENT STANDINGS ===
+1. Always Defect - 1204 total points
+2. Tit For Tat - 799 total points
+3. Always Cooperate - 600 total points
+==================================
+

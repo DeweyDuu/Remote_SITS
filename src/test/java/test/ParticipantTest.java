@@ -33,10 +33,9 @@ public class ParticipantTest {
         GameHistory history = new GameHistory("P1", "TitForTat");
         assertEquals(PrisonerAction.COOPERATE, titForTat.chooseAction(history), 
                      "TitForTat should cooperate on the very first turn.");
-     // We make P1 Cooperate (0 points) and P2 Defect (5 points)
+
         history.getRounds().add(new RoundResult(PrisonerAction.COOPERATE, PrisonerAction.DEFECT, 0, 5, 1));
         assertEquals(PrisonerAction.DEFECT, titForTat.chooseAction(history), 
                      "TitForTat should mirror the opponent's previous cooperate");
     }
 }
-

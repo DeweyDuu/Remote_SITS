@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.function.Function;
 
 public class NetworkedTournament {
-	
+
 	private Function<String, Action> actionFactory;
 
     private String id;
@@ -21,6 +21,7 @@ public class NetworkedTournament {
     private Game game;
     private List<Participant> participants;
     private TournamentStatus status;
+    private TournamentResult result;
 
     public NetworkedTournament(String id, String name, TournamentFormat format, Game game,Function<String, Action> actionFactory) {
         this.id = id;
@@ -42,6 +43,18 @@ public class NetworkedTournament {
     public TournamentStatus getStatus() {
     	return status;
     	}
+
+    public TournamentResult getResult() {
+        return result;
+    }
+
+    public List<String> getParticipantNames() {
+        List<String> names = new ArrayList<>();
+        for (Participant p : participants) {
+            names.add(p.getName());
+        }
+        return names;
+    }
 
    
     public void addRemoteParticipant(RegistrationRequest req) {
@@ -68,8 +81,8 @@ public class NetworkedTournament {
             return null;
     	}
         this.status = TournamentStatus.RUNNING;
-        TournamentResult result = format.run(participants, game);
+        this.result = format.run(participants, game);
         this.status = TournamentStatus.COMPLETED;
-        return result;
+        return this.result;
     }
 }

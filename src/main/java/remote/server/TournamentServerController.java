@@ -32,6 +32,24 @@ public class TournamentServerController {
             return "error: Tournament not found!";
         }
     }
+    @GetMapping("/{id}/participants")
+    public List<String> getParticipants(@PathVariable String id) {
+        NetworkedTournament tournament = registry.get(id);
+        if (tournament != null) {
+            return tournament.getParticipantNames();
+        }
+        return List.of();
+    }
+
+    @GetMapping("/{id}/result")
+    public TournamentResult getResult(@PathVariable String id) {
+        NetworkedTournament tournament = registry.get(id);
+        if (tournament != null) {
+            return tournament.getResult();
+        }
+        return null;
+    }
+
     @PostMapping("/{id}/start")
     public TournamentResult start(@PathVariable String id) {
         NetworkedTournament tournament = registry.get(id);

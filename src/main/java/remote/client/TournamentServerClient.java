@@ -35,6 +35,6 @@ public class TournamentServerClient {
         RestTemplate rest = new RestTemplate();
         rest.postForObject(targetUrl, request, String.class);
         
-        System.out.println("Tournament regiestered");
+        System.out.println("Tournament registered");
     }
 }

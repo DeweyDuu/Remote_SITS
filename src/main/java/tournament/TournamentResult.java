@@ -19,8 +19,11 @@ public class TournamentResult {
         return rankings;
     }
 
+    public Map<String, Integer> getScores() {
+        return scores;
+    }
+
     public int getScore(String name) {
-    	
         return scores.getOrDefault(name, 0);
     }
 }

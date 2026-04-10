@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.web.context.WebServerInitializedEvent;
+import org.springframework.boot.web.server.context.WebServerInitializedEvent;
 import org.springframework.context.event.EventListener;
 
 import java.net.InetAddress;
@@ -32,7 +32,11 @@ public class ClientApp {
     public void onApplicationReady(WebServerInitializedEvent event) throws UnknownHostException {
     	this.port = event.getWebServer().getPort();
         String ip = InetAddress.getLocalHost().getHostAddress();
-        client.register(tournamentId, participantName, ip, port);
+        try {
+            client.register(tournamentId, participantName, ip, port);
+        } catch (Exception e) {
+            System.out.println("Could not reach tournament server: " + e.getMessage());
+        }
     }
     public static void main(String[] args) {
    

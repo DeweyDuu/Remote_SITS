@@ -13,7 +13,8 @@ public class RemoteParticipant implements Participant {
     private String name;
     private String clientUrl; 
     private Function<String, Action> actionFactory;
-   
+    private RestTemplate restTemplate;
+
     @Override
     public String getName() {
         return name;
@@ -24,18 +25,24 @@ public class RemoteParticipant implements Participant {
         this.clientUrl = clientUrl;
         this.actionFactory = actionFactory;
     }
+    
+    
+    public RemoteParticipant(String name, String clientUrl, Function<String, Action> actionFactory, RestTemplate restTemplate) {
+        this.name = name;
+        this.clientUrl = clientUrl;
+        this.actionFactory = actionFactory;
+        this.restTemplate = restTemplate; 
+    }
 
     @Override
     public Action chooseAction(GameHistory history) {
     	GameHistoryDTO dto = GameHistoryDTO.fromGameHistory(history);
-    	RestTemplate rest = new RestTemplate();
-    	String lable = rest.postForObject(clientUrl + "/action", dto, String.class);
-    	return actionFactory.apply(lable);
+    	String label = restTemplate.postForObject(clientUrl + "/action", dto, String.class);
+    	return actionFactory.apply(label);
 }
 
     @Override
     public void reset() {
-    	RestTemplate rest = new RestTemplate();
-        rest.postForObject(clientUrl + "/reset", null, Void.class);
+    	restTemplate.postForObject(clientUrl + "/reset", null, Void.class);
     }
 }

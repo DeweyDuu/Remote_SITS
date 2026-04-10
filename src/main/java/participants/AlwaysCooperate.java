@@ -3,7 +3,9 @@ package participants;
 import game.Action;
 import game.GameHistory;
 import game.PrisonerAction;
+import org.springframework.stereotype.Service;
 
+@Service
 public class AlwaysCooperate implements Participant {
     
     @Override 
