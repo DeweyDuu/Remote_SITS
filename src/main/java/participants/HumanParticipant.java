@@ -6,11 +6,11 @@ import remote.dto.StringAction;
 import java.util.Scanner;
 
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Profile;
+import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
 @Service
-@Profile("!test")
+@Primary
 public class HumanParticipant implements Participant {
 
     private String name;

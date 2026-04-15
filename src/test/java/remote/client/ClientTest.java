@@ -10,15 +10,16 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.resttestclient.autoconfigure.AutoConfigureRestTestClient;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.context.SpringBootTest.WebEnvironment;
-import org.springframework.test.context.ActiveProfiles;
+import org.springframework.context.annotation.Import;
 import org.springframework.test.web.servlet.client.RestTestClient;
 
 import remote.dto.GameHistoryDTO;
 import remote.dto.RoundResultDTO;
 
-@SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT, classes = ClientApp.class)
+@SpringBootTest(webEnvironment = WebEnvironment.RANDOM_PORT, classes = ClientApp.class,
+                properties = "spring.main.allow-bean-definition-overriding=true")
 @AutoConfigureRestTestClient
-@ActiveProfiles("test")
+@Import(TestParticipantConfig.class)
 class ClientTest {
 
     @Autowired
@@ -27,7 +28,6 @@ class ClientTest {
     @Test
     void testClientInteraction()
     {
-    	
         tClient.get().uri("/name")
                 .exchange()
                 .expectStatus().isOk()
@@ -42,17 +42,17 @@ class ClientTest {
                 .expectStatus().isOk()
                 .expectBody(String.class)
                 .value(action -> assertThat(action).isNotBlank());
-        
+
         GameHistoryDTO withHistory = new GameHistoryDTO("Always Cooperate", "Opponent",
                 List.of(new RoundResultDTO("COOPERATE", "DEFECT", 0, 5)));
-        
+
         tClient.post().uri("/action")
                 .body(withHistory)
                 .exchange()
                 .expectStatus().isOk()
                 .expectBody(String.class)
                 .isEqualTo("COOPERATE");
-        
+
         tClient.post().uri("/reset")
                 .exchange()
                 .expectStatus().isOk();
