@@ -37,7 +37,7 @@ class TournamentServerControllerTest {
         assertEquals(1, result.size());
         assertEquals("ipd1", result.get(0).getId());
     }
-
+    
     @Test
     void testGetTournamentsEmptyAfterStart() {
         tournament.start();
