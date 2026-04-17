@@ -76,7 +76,7 @@ class ServerTest {
                 .expectStatus().isOk()
                 .expectBody(String.class)
                 .isEqualTo("error: Tournament not found!");
-
+       
         // check internal state directly
         assertThat(registry.get("ipd1")).isNotNull();
         assertThat(registry.get("ipd1").getParticipantNames()).contains("p1", "p2");

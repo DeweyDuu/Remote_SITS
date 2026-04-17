@@ -15,7 +15,6 @@ public class TournamentServerClient {
 	
 	@Value("${tournament.server.url:http://localhost:8080}")
     private String serverUrl;
-   
     public List<NetworkedTournament> listTournaments() {
         String targetUrl = serverUrl + "/tournaments";
         RestTemplate rest = new RestTemplate();
@@ -26,7 +25,7 @@ public class TournamentServerClient {
             return Arrays.asList();
         }
     }
-
+    
     public void register(String tournamentId, String name, String ip, int port) {
         
         RegistrationRequest request = new RegistrationRequest(name, ip, port);

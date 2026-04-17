@@ -19,21 +19,21 @@ public class RemoteParticipant implements Participant {
     public String getName() {
         return name;
     }
-
     public RemoteParticipant(String name, String clientUrl, Function<String, Action> actionFactory) {
         this.name = name;
         this.clientUrl = clientUrl;
         this.actionFactory = actionFactory;
+        this.restTemplate = new RestTemplate();
     }
-    
-    
+
     public RemoteParticipant(String name, String clientUrl, Function<String, Action> actionFactory, RestTemplate restTemplate) {
         this.name = name;
         this.clientUrl = clientUrl;
         this.actionFactory = actionFactory;
         this.restTemplate = restTemplate; 
     }
-
+    
+    
     @Override
     public Action chooseAction(GameHistory history) {
     	GameHistoryDTO dto = GameHistoryDTO.fromGameHistory(history);
