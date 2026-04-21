@@ -92,4 +92,16 @@ class TournamentServerControllerTest {
         TournamentResult result = controller.start("unknown");
         assertNull(result);
     }
+
+    @Test
+    void testNullForUnkown() {
+        TournamentResult result = controller.getResult("unknown");
+        assertNull(result);
+    }
+
+    @Test
+    void testStart() {
+        TournamentResult result = controller.start("ipd1");
+        assertNotNull(result);
+    }
 }

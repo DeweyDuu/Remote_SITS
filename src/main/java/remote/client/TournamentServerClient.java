@@ -1,5 +1,6 @@
 package remote.client;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
@@ -12,28 +13,36 @@ import remote.server.NetworkedTournament;
 
 @Service
 public class TournamentServerClient {
-	
-	@Value("${tournament.server.url:http://localhost:8080}")
+
     private String serverUrl;
+    private RestTemplate restTemplate;
+
+    @Autowired
+    public TournamentServerClient(
+            @Value("${tournament.server.url:http://localhost:8080}") String serverUrl) {
+        this.serverUrl = serverUrl;
+        this.restTemplate = new RestTemplate();
+    }
+    //testing
+    public TournamentServerClient(String serverUrl, RestTemplate restTemplate) {
+        this.serverUrl = serverUrl;
+        this.restTemplate = restTemplate;
+    }
+
     public List<NetworkedTournament> listTournaments() {
         String targetUrl = serverUrl + "/tournaments";
-        RestTemplate rest = new RestTemplate();
-        NetworkedTournament[] activeTournaments = rest.getForObject(targetUrl, NetworkedTournament[].class);
+        NetworkedTournament[] activeTournaments = restTemplate.getForObject(targetUrl, NetworkedTournament[].class);
         if (activeTournaments != null) {
             return Arrays.asList(activeTournaments);
         } else {
             return Arrays.asList();
         }
     }
-    
+
     public void register(String tournamentId, String name, String ip, int port) {
-        
         RegistrationRequest request = new RegistrationRequest(name, ip, port);
         String targetUrl = serverUrl + "/tournaments/" + tournamentId + "/register";
-
-        RestTemplate rest = new RestTemplate();
-        rest.postForObject(targetUrl, request, String.class);
-        
+        restTemplate.postForObject(targetUrl, request, String.class);
         System.out.println("Tournament registered");
     }
 }

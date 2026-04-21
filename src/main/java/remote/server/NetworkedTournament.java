@@ -23,6 +23,10 @@ public class NetworkedTournament {
     private TournamentStatus status;
     private TournamentResult result;
 
+    //since we use the restTemplate, empty constructor help java to unmarshal something not an object to an object 
+    //create an instance
+    public NetworkedTournament() {}
+
     public NetworkedTournament(String id, String name, TournamentFormat format, Game game,Function<String, Action> actionFactory) {
         this.id = id;
         this.name = name;
