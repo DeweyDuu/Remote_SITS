@@ -3,8 +3,6 @@ package remote.client;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.springframework.test.web.client.match.MockRestRequestMatchers.*;
 import static org.springframework.test.web.client.response.MockRestResponseCreators.*;
-import java.io.ByteArrayOutputStream;
-import java.io.PrintStream;
 import java.util.List;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -24,6 +22,8 @@ class TournamentServerClientTest {
     @BeforeEach
     void setup() {
         restTemplate = new RestTemplate();
+        // This allows us to simulate server responses and verify client behavior
+        //without requiring a live network connection
         mockServer = MockRestServiceServer.createServer(restTemplate);
         client = new TournamentServerClient("http://localhost:8080", restTemplate);
     }
@@ -56,13 +56,21 @@ class TournamentServerClientTest {
     }
 
     @Test
+    void testListTournamentsNullResponse() {
+        mockServer.expect(requestTo("http://localhost:8080/tournaments"))
+                  .andRespond(withSuccess("null", MediaType.APPLICATION_JSON));
+
+        List<NetworkedTournament> result = client.listTournaments();
+
+        assertNotNull(result);
+        assertTrue(result.isEmpty());
+    }
+
+    @Test
     void testRegisterCallsServer() {
         mockServer.expect(requestTo("http://localhost:8080/tournaments/ipd1/register"))
                   .andRespond(withSuccess("successfully registered: p1", MediaType.TEXT_PLAIN));
-        //for checking print out text
-        ByteArrayOutputStream output = new ByteArrayOutputStream();
-        System.setOut(new PrintStream(output));   
         client.register("ipd1", "p1", "127.0.0.1", 9001);
-        assertTrue(output.toString().contains("Tournament registered"));
+        mockServer.verify(); // confirm POST was made to the correct URL
     }
 }

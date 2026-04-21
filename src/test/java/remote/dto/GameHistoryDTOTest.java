@@ -69,4 +69,16 @@ class GameHistoryDTOTest {
         assertEquals(1, round2.getScoreP1());
         assertEquals(1, round2.getScoreP2());
     }
+
+    @Test
+    void testToGameHistoryNull() {
+    	// default constructor leaves rounds as empty
+        GameHistoryDTO dto = new GameHistoryDTO();
+        dto.nameP1 = "p1";
+        dto.nameP2 = "p2";
+        GameHistory history = dto.toGameHistory();
+        assertEquals("p1", history.getP1Name());
+        assertEquals("p2", history.getP2Name());
+        assertTrue(history.getRounds().isEmpty());
+    }
 }
